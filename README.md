@@ -2,7 +2,7 @@
 
 👋 Olá! Sou Leonardo Prado, entusiasta de tecnologia e apaixonado por desenvolvimento de software. Atualmente, estou mergulhando no mundo do Arduino e da tecnologia, explorando novas possibilidades e desafios.
 
-🧠 Meu interesse se estende por diversas áreas, desde IoT até aprendizado de máquina, sempre buscando aprender e colaborar em projetos inovadores.
+🧠 Meu interesse se estende por diversas áreas, desde IoT até criação de aplicativo mobile, sempre buscando aprender e colaborar em projetos inovadores.
 
 💻 No meu GitHub, você encontrará projetos onde aplico meus conhecimentos em programação e eletrônica, além de experimentos em diversas linguagens e plataformas.
 
