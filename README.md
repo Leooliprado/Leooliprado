@@ -10,8 +10,6 @@
 ### - C++ <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="40" height="40"/>
 ### - Flutter <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="100" height="40"/>
 
-
-
 📫 Você pode entrar em contato comigo pelo e-mail leonardooliveiraprado2005@gmail.com ou me seguir no Instagram [@arduino2.0tecnologico](https://www.instagram.com/arduino2.0tecnologico?igsh=cXk2NWFvejgxY3Zt) para acompanhar minhas aventuras no mundo da tecnologia.
 
 Vamos criar algo incrível juntos! 🚀
