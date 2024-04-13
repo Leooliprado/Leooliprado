@@ -12,7 +12,15 @@ Vamos criar algo incrível juntos! 🚀
 
 ## Estatísticas do GitHub
 
+### Linguagens Mais Usadas
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leooliprado&layout=compact&hide=java,html&langs_count=10)](https://github.com/Leooliprado)
 
-[![Leonardo Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leooliprado&show_icons=true)](https://github.com/Leooliprado)
+### Atividade Semanal
+
+[![Leooliprado's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Leooliprado)](https://github.com/Leooliprado)
+
+### Contribuições ao Longo do Tempo
+
+[![Leooliprado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leooliprado)](https://github.com/Leooliprado)
 
