@@ -6,7 +6,7 @@
 
 💻 No meu GitHub, você encontrará projetos onde aplico meus conhecimentos em programação e eletrônica, além de experimentos em diversas linguagens e plataformas.
 
-📫 Você pode entrar em contato comigo pelo e-mail leonardooliveiraprado2005@gmail.com ou me seguir no Instagram [@arduino2.0tecnologico]([https://www.instagram.com/arduino2.0tecnologico/](https://www.instagram.com/arduino2.0tecnologico?igsh=cXk2NWFvejgxY3Zt) para acompanhar minhas aventuras no mundo da tecnologia.
+📫 Você pode entrar em contato comigo pelo e-mail leonardooliveiraprado2005@gmail.com ou me seguir no Instagram [@arduino2.0tecnologico](https://www.instagram.com/arduino2.0tecnologico?igsh=cXk2NWFvejgxY3Zt) para acompanhar minhas aventuras no mundo da tecnologia.
 
 Vamos criar algo incrível juntos! 🚀
 
@@ -18,8 +18,7 @@ Vamos criar algo incrível juntos! 🚀
 
 ### Atividade Semanal
 
-[![Leooliprado's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Leooliprado&layout=compact)](https://wakatime.com/@Leooliprado)
-
+[![Leooliprado's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Leooliprado)](https://github.com/Leooliprado)
 
 ### Contribuições ao Longo do Tempo
 
