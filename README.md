@@ -15,4 +15,9 @@ Vamos criar algo incrível juntos! 🚀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leooliprado&layout=compact)](https://github.com/Leooliprado)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leooliprado&layout=compact)](https://github.com/Leooliprado)
+
+
+
+
 
