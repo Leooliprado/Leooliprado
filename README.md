@@ -18,7 +18,8 @@ Vamos criar algo incrível juntos! 🚀
 
 ### Atividade Semanal
 
-[![Leooliprado's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Leooliprado)](https://github.com/Leooliprado)
+[![Leooliprado's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Leooliprado&layout=compact)](https://wakatime.com/@Leooliprado)
+
 
 ### Contribuições ao Longo do Tempo
 
