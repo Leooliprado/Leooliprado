@@ -6,9 +6,15 @@
 
 💻 No meu GitHub, você encontrará projetos onde aplico meus conhecimentos em programação e eletrônica, além de experimentos em diversas linguagens e plataformas.
 
-### - Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40" height="40"/>
-### - C++ <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="40" height="40"/>
-### - Flutter <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="100" height="40"/>
+### Linguagens
+
+- Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40" height="40"/>
+- C++ <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="40" height="40"/>
+- Dart <img src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart Logo" width="40" height="40"/>
+
+### Framework
+
+- Flutter <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="100" height="40"/>
 
 📫 Você pode entrar em contato comigo pelo e-mail leonardooliveiraprado2005@gmail.com ou me seguir no Instagram [@arduino2.0tecnologico](https://www.instagram.com/arduino2.0tecnologico?igsh=cXk2NWFvejgxY3Zt) para acompanhar minhas aventuras no mundo da tecnologia.
 
