@@ -16,7 +16,7 @@
 
 - Flutter <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="100" height="40"/>
 
-- Flask <img src=" http://flask.pocoo.org/static/logo/flask.svg" alt="Flask Logo" width="40" height="40">
+- Flask <img src="http://flask.pocoo.org/static/logo/flask.svg" alt="Flask Logo" width="40" height="40">
 
 
 
