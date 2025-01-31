@@ -36,7 +36,7 @@
 
 #### Repositórios Populares
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leooliprado&repo=regador_wifi_esp32)](https://github.com/Leooliprado/regador_wifi_esp32)  
-*Substitua "your-repo-name" pelo nome de um dos seus repositórios mais populares.*
+
 
 ### 📫 Contato
 
