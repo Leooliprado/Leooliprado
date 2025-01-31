@@ -28,14 +28,14 @@
 #### Commits Diários
 [![Leooliprado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leooliprado&show_icons=true)](https://github.com/Leooliprado)
 
-#### Streak de Contribuições
+#### Sequência de Contribuições
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leooliprado&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 #### Atividade Recente
 [![Leooliprado's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leooliprado&theme=react-dark)](https://github.com/Leooliprado)
 
 #### Repositórios Populares
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leooliprado&repo=your-repo-name)](https://github.com/Leooliprado/regador_wifi_esp32)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leooliprado&repo=regador_wifi_esp32)](https://github.com/Leooliprado/regador_wifi_esp32)  
 
 
 ### 📫 Contato
