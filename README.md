@@ -47,14 +47,4 @@ Se você quiser colaborar em algum projeto, trocar ideias ou apenas bater um pap
 
 Vamos criar algo incrível juntos! 🚀
 
----
 
-### Alterações Realizadas:
-1. **Tema Escuro Padrão:**
-   - Utilizei o tema **`dark`** para as estatísticas, que é o tom de escuro clássico do GitHub.
-   - No gráfico de atividade, usei o tema **`github-dark`**, que combina perfeitamente com o restante.
-
-2. **Consistência Visual:**
-   - Todos os elementos agora estão com o tema escuro padrão, mantendo um visual limpo e profissional.
-
-Se precisar de mais ajustes ou quiser testar outras cores, é só avisar! 😊
