@@ -1,34 +1,39 @@
 # Leonardo Prado
 
-👋 Olá! Sou Leonardo Prado, entusiasta de tecnologia e apaixonado por desenvolvimento de software. Atualmente, estou mergulhando no mundo do Arduino e da tecnologia, explorando novas possibilidades e desafios.
+👋 Olá! Eu sou Leonardo Prado, um entusiasta de tecnologia e apaixonado por desenvolvimento de software. Atualmente, estou explorando o fascinante mundo do Arduino e da tecnologia, buscando constantemente novos desafios e possibilidades para inovar.
 
-🧠 Meu interesse se estende por diversas áreas, desde IoT até criação de aplicativo mobile, sempre buscando aprender e colaborar em projetos inovadores.
+🧠 Minha curiosidade e interesse se estendem por diversas áreas, desde **IoT (Internet das Coisas)** até o desenvolvimento de **aplicativos mobile**. Estou sempre em busca de aprender novas tecnologias e colaborar em projetos que possam impactar positivamente o mundo.
 
-💻 No meu GitHub, você encontrará projetos onde aplico meus conhecimentos em programação e eletrônica, além de experimentos em diversas linguagens e plataformas.
+💻 No meu [GitHub](https://github.com/Leooliprado), você encontrará uma variedade de projetos onde aplico meus conhecimentos em programação e eletrônica. Desde experimentos com microcontroladores até aplicações móveis e web, estou sempre testando novas ideias e aprimorando minhas habilidades.
 
-### Linguagens
+### 🛠️ Tecnologias e Ferramentas
 
-- Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40" height="40"/>
-- C++ <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="40" height="40"/>
-- Dart <img src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart Logo" width="40" height="40"/>
+#### Linguagens de Programação
+- **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20" height="20"/>
+- **C++** <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="20" height="20"/>
+- **Dart** <img src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart Logo" width="20" height="20"/>
 
-### Framework
+#### Frameworks
+- **Flutter** <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="50" height="20"/>  
+  *Para desenvolvimento de aplicativos mobile multiplataforma.*
+  
+- **Flask** <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Logo" width="50" height="20"/>  
+  *Para desenvolvimento de aplicações web leves e eficientes.*
 
-- Flutter <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="100" height="40"/>
+### 📊 Estatísticas do GitHub
 
-- Flask <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flutter Logo" width="100" height="40"/>
-
-
-📫 Você pode entrar em contato comigo pelo e-mail leonardooliveiraprado2005@gmail.com ou me seguir no Instagram [@arduino2.0tecnologico](https://www.instagram.com/arduino2.0tecnologico?igsh=cXk2NWFvejgxY3Zt) para acompanhar minhas aventuras no mundo da tecnologia.
-
-Vamos criar algo incrível juntos! 🚀
-
-## Estatísticas do GitHub
-
-### Linguagens Mais Usadas
-
+#### Linguagens Mais Usadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leooliprado&layout=compact&hide=java,html&langs_count=10)](https://github.com/Leooliprado)
 
-### Commits Diários
-
+#### Commits Diários
 [![Leooliprado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leooliprado&show_icons=true)](https://github.com/Leooliprado)
+
+### 📫 Contato
+
+Se você quiser colaborar em algum projeto, trocar ideias ou apenas bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato comigo:
+
+- **E-mail:** [leonardooliveiraprado2005@gmail.com](mailto:leonardooliveiraprado2005@gmail.com)
+- **Instagram:** [@arduino2.0tecnologico](https://www.instagram.com/arduino2.0tecnologico?igsh=cXk2NWFvejgxY3Zt)  
+  *Acompanhe minhas aventuras no mundo da tecnologia e descubra projetos interessantes que estou desenvolvendo.*
+
+Vamos criar algo incrível juntos! 🚀
