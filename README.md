@@ -23,20 +23,19 @@
 ### 📊 Estatísticas do GitHub
 
 #### Linguagens Mais Usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leooliprado&layout=compact&hide=java,html&langs_count=10)](https://github.com/Leooliprado)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leooliprado&layout=compact&hide=java,html&langs_count=10&theme=dark)](https://github.com/Leooliprado)
 
 #### Commits Diários
-[![Leooliprado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leooliprado&show_icons=true)](https://github.com/Leooliprado)
+[![Leooliprado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leooliprado&show_icons=true&theme=dark)](https://github.com/Leooliprado)
 
 #### Sequência de Contribuições
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leooliprado&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 #### Atividade Recente
-[![Leooliprado's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leooliprado&theme=react-dark)](https://github.com/Leooliprado)
+[![Leooliprado's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leooliprado&theme=github-dark)](https://github.com/Leooliprado)
 
 #### Repositórios Populares
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leooliprado&repo=regador_wifi_esp32)](https://github.com/Leooliprado/regador_wifi_esp32)  
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leooliprado&repo=regador_wifi_esp32&theme=dark)](https://github.com/Leooliprado/regador_wifi_esp32)  
 
 ### 📫 Contato
 
@@ -47,3 +46,15 @@ Se você quiser colaborar em algum projeto, trocar ideias ou apenas bater um pap
   *Acompanhe minhas aventuras no mundo da tecnologia e descubra projetos interessantes que estou desenvolvendo.*
 
 Vamos criar algo incrível juntos! 🚀
+
+---
+
+### Alterações Realizadas:
+1. **Tema Escuro Padrão:**
+   - Utilizei o tema **`dark`** para as estatísticas, que é o tom de escuro clássico do GitHub.
+   - No gráfico de atividade, usei o tema **`github-dark`**, que combina perfeitamente com o restante.
+
+2. **Consistência Visual:**
+   - Todos os elementos agora estão com o tema escuro padrão, mantendo um visual limpo e profissional.
+
+Se precisar de mais ajustes ou quiser testar outras cores, é só avisar! 😊
