@@ -1,11 +1,3 @@
-# Leonardo Prado
-
-👋 Olá! Eu sou Leonardo Prado, um entusiasta de tecnologia e apaixonado por desenvolvimento de software. Atualmente, estou explorando o fascinante mundo do Arduino e da tecnologia, buscando constantemente novos desafios e possibilidades para inovar.
-
-🧠 Minha curiosidade e interesse se estendem por diversas áreas, desde **IoT (Internet das Coisas)** até o desenvolvimento de **aplicativos mobile**. Estou sempre em busca de aprender novas tecnologias e colaborar em projetos que possam impactar positivamente o mundo.
-
-💻 No meu [GitHub](https://github.com/Leooliprado), você encontrará uma variedade de projetos onde aplico meus conhecimentos em programação e eletrônica. Desde experimentos com microcontroladores até aplicações móveis e web, estou sempre testando novas ideias e aprimorando minhas habilidades.
-
 ### 🛠️ Tecnologias e Ferramentas
 
 #### Linguagens de Programação
@@ -13,12 +5,27 @@
 - **C++** <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="20" height="20"/>
 - **Dart** <img src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart Logo" width="20" height="20"/>
 
+#### Front-end
+- **Web**  
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="25"/> HTML5 | 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="20"/> CSS3 | 
+  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="25"/> Bootstrap
+
+- **Mobile**  
+  <img src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart" width="20"/> Dart + 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="60"/> Flutter
+
+#### Bancos de Dados
+- **SQL** <img src="https://www.svgrepo.com/show/331761/sql-database-generic.svg" alt="SQL Logo" width="20" height="20"/>
+
 #### Frameworks
-- **Flutter** <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="50" height="20"/>  
-  *Para desenvolvimento de aplicativos mobile multiplataforma.*
-  
 - **Flask** <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Logo" width="50" height="20"/>  
   *Para desenvolvimento de aplicações web leves e eficientes.*
+
+#### Sistemas Operacionais & DevOps
+- **Linux** <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Logo" width="20" height="20"/>
+- **Gerenciamento de Servidores** <img src="https://www.svgrepo.com/show/349375/server.svg" alt="Server Icon" width="20" height="20"/>  
+  *Experiência em configuração e manutenção de servidores Linux*
 
 ### 📊 Estatísticas do GitHub
 
