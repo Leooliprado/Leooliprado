@@ -40,15 +40,20 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/640px-Ubuntu_logoib.svg.png" width="25"/> Ubuntu Server |
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="25"/> Debian
 
+### ☁️ **Cloud & Servidores**  
+
 #### **AWS** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/640px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="30"/>  
 ✔️ Implantação e gerenciamento de instâncias EC2  
 
-#### **Servidores Locais** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Server-multiple.svg/640px-Server-multiple.svg.png" width="25"/>  
-✔️ Configuração de portas no roteador  
+#### **Servidores Físicos (Caseiros ou Empresariais)** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Server-multiple.svg/640px-Server-multiple.svg.png" width="25"/>  
+✔️ Montagem e configuração de servidores físicos, seja em casa ou na empresa  
+✔️ Configuração de portas no roteador para acesso externo  
 ✔️ Instalação e configuração de sistemas operacionais para servidores  
 ✔️ Ajuste de rede para servidores locais  
-✔️ Configuração de DDNS (No-IP)  
-✔️ Implantação de servidores públicos e locais  
+✔️ Configuração de DDNS (No-IP) para IP dinâmico  
+✔️ Implantação de servidores acessíveis publicamente sem depender de serviços em nuvem  
+
+
 ### 📊 Estatísticas do GitHub
 
 #### Linguagens Mais Usadas
