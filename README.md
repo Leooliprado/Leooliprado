@@ -44,6 +44,14 @@
 - **AWS** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/640px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="30"/>  
   *Implantações em EC2.*
 
+- **Servidores Locais** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/server/server-original.svg" width="25"/>  
+*Configuração de servidores:*
+- Configuração de porta no roteador
+- Instalação de sistema de servidor em máquina
+- Configuração de rede nos servidores locais
+- Configuração de DDNS (no-ip)
+- Montagem de servidores públicos e locais
+
 ### 📊 Estatísticas do GitHub
 
 #### Linguagens Mais Usadas
