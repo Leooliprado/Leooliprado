@@ -1,3 +1,11 @@
+# Leonardo Prado
+
+👋 Olá! Eu sou Leonardo Prado, um entusiasta de tecnologia e apaixonado por desenvolvimento de software. Atualmente, estou explorando o fascinante mundo do Arduino e da tecnologia, buscando constantemente novos desafios e possibilidades para inovar.
+
+🧠 Minha curiosidade e interesse se estendem por diversas áreas, desde **IoT (Internet das Coisas)** até o desenvolvimento de **aplicativos mobile**. Estou sempre em busca de aprender novas tecnologias e colaborar em projetos que possam impactar positivamente o mundo.
+
+💻 No meu [GitHub](https://github.com/Leooliprado), você encontrará uma variedade de projetos onde aplico meus conhecimentos em programação e eletrônica. Desde experimentos com microcontroladores até aplicações móveis e web, estou sempre testando novas ideias e aprimorando minhas habilidades.
+
 ### 🛠️ Tecnologias e Ferramentas
 
 #### Linguagens de Programação
@@ -26,6 +34,7 @@
 - **Linux** <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Logo" width="20" height="20"/>
 - **Gerenciamento de Servidores** <img src="https://www.svgrepo.com/show/349375/server.svg" alt="Server Icon" width="20" height="20"/>  
   *Experiência em configuração e manutenção de servidores Linux*
+
 
 ### 📊 Estatísticas do GitHub
 
