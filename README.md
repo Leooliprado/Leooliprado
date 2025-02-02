@@ -41,7 +41,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="25"/> Debian
 
 #### Cloud & Servidores
-- **AWS** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/>  
+- **AWS** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/640px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="30"/>  
   *Implantações em EC2.*
 
 ### 📊 Estatísticas do GitHub
