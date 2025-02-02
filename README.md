@@ -32,12 +32,12 @@
 #### Sistemas Operacionais
 - **Linux** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/>
   - **Desktop**: 
-    <img src="https://e7.pngegg.com/pngimages/720/729/png-clipart-omg-ubuntu-installation-linux-feather-logo-design-computer-logo-thumbnail.png" width="25"/> Ubuntu |
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/640px-Ubuntu_logoib.svg.png" width="25"/> Ubuntu |
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="25"/> Debian |
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="25"/> Linux Mint 
 
   - **Servidor**: 
-    <img src="https://e7.pngegg.com/pngimages/720/729/png-clipart-omg-ubuntu-installation-linux-feather-logo-design-computer-logo-thumbnail.png" width="25"/> Ubuntu Server |
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/640px-Ubuntu_logoib.svg.png" width="25"/> Ubuntu Server |
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="25"/> Debian
 
 #### Cloud & Servidores
