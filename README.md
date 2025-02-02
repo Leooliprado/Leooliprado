@@ -40,18 +40,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/640px-Ubuntu_logoib.svg.png" width="25"/> Ubuntu Server |
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="25"/> Debian
 
-#### Cloud & Servidores
-- **AWS** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/640px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="30"/>  
-  *Implantações em EC2 e gerenciamento de instâncias na nuvem*
+#### **AWS** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/640px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="30"/>  
+✔️ Implantação e gerenciamento de instâncias EC2  
 
-- **Servidores Locais** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Server-multiple.svg/640px-Server-multiple.svg.png" width="25"/>  
-*Configuração de servidores:*
-- Configuração de porta no roteador
-- Instalação de sistema de servidor em máquina
-- Configuração de rede nos servidores locais
-- Configuração de DDNS (no-ip)
-- Montagem de servidores públicos e locais
-
+#### **Servidores Locais** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Server-multiple.svg/640px-Server-multiple.svg.png" width="25"/>  
+✔️ Configuração de portas no roteador  
+✔️ Instalação e configuração de sistemas operacionais para servidores  
+✔️ Ajuste de rede para servidores locais  
+✔️ Configuração de DDNS (No-IP)  
+✔️ Implantação de servidores públicos e locais  
 ### 📊 Estatísticas do GitHub
 
 #### Linguagens Mais Usadas
