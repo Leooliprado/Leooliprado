@@ -9,32 +9,29 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 #### Linguagens de Programação
-- **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20" height="20"/>
-- **C++** <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="20" height="20"/>
-- **Dart** <img src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart Logo" width="20" height="20"/>
+- **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20"/>
+- **C++** <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="20"/>
+- **Dart** <img src="https://dart.dev/assets/shared/dart/icon/64.png" width="20"/>
 
 #### Front-end
 - **Web**  
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="25"/> HTML5 | 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="20"/> CSS3 | 
-  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="25"/> Bootstrap
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML5 | 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> CSS3 | 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25"/> Bootstrap
 
 - **Mobile**  
-  <img src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart" width="20"/> Dart + 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="60"/> Flutter
+  <img src="https://dart.dev/assets/shared/dart/icon/64.png" width="20"/> Dart + 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25"/> Flutter
 
 #### Bancos de Dados
-- **SQL** <img src="https://www.svgrepo.com/show/331761/sql-database-generic.svg" alt="SQL Logo" width="20" height="20"/>
+- **SQL** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
 
 #### Frameworks
-- **Flask** <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Logo" width="50" height="20"/>  
-  *Para desenvolvimento de aplicações web leves e eficientes.*
+- **Flask** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="25"/>
 
 #### Sistemas Operacionais & DevOps
-- **Linux** <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Logo" width="20" height="20"/>
-- **Gerenciamento de Servidores** <img src="https://www.svgrepo.com/show/349375/server.svg" alt="Server Icon" width="20" height="20"/>  
-  *Experiência em configuração e manutenção de servidores Linux*
-
+- **Linux** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/>
+- **Servidores** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="25"/>
 
 ### 📊 Estatísticas do GitHub
 
