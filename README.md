@@ -29,9 +29,19 @@
 #### Frameworks
 - **Flask** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="25"/>
 
-#### Sistemas Operacionais & DevOps
+#### Sistemas Operacionais
 - **Linux** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/>
-- **Servidores** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="25"/>
+  - **Desktop**: 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="25"/> Ubuntu |
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="25"/> Debian |
+    🍃 Linux Mint
+  - **Servidor**: 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="25"/> Ubuntu Server |
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="25"/> Debian
+
+#### Cloud & Servidores
+- **AWS** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/>  
+  *Implantações em EC2.*
 
 ### 📊 Estatísticas do GitHub
 
