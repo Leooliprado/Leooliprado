@@ -69,7 +69,8 @@
 [![Leooliprado's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leooliprado&theme=github-dark)](https://github.com/Leooliprado)
 
 #### Repositórios Populares
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leooliprado&repo=regador_wifi_esp32&theme=dark)
+[![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leooliprado&repo=regador_wifi_esp32&theme=dark)](https://github.com/Leooliprado/regador_wifi_esp32)
+
 
 ### 📫 Contato
 
