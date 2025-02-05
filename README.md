@@ -63,8 +63,7 @@
 [![Leooliprado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leooliprado&show_icons=true&theme=dark)](https://github.com/Leooliprado)
 
 #### Sequência de Contribuições
-[![GitHub Streak](https://streak-stats.demolab.com?user=Leooliprado&theme=dark&locale=pt_BR)]
-(https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Leooliprado&theme=dark&locale=pt_BR)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 #### Atividade Recente
 [![Leooliprado's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leooliprado&theme=github-dark)](https://github.com/Leooliprado)
