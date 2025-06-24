@@ -35,7 +35,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/640px-Ubuntu_logoib.svg.png" width="25"/> Ubuntu |
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="25"/> Debian |
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="25"/> Linux Mint
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/640px-Arch_Linux_%22Crystal%22_icon.svg.png)" width="25"/> Arch Linux
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/640px-Arch_Linux_%22Crystal%22_icon.svg.png" width="25"/> Arch Linux
 
   - **Servidor**: 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/640px-Ubuntu_logoib.svg.png" width="25"/> Ubuntu Server |
