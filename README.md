@@ -40,7 +40,7 @@
 
 
   - **Servidor**: 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/640px-Ubuntu_logoib.svg.png" width="25"/> Ubuntu Server |
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="25"/> Ubuntu Server |
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="25"/> Debian
 
 ### ☁️ **Cloud & Servidores**  
