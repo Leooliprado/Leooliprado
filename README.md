@@ -73,6 +73,7 @@
 [![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leooliprado&repo=regador_wifi_esp32&theme=dark)](https://github.com/Leooliprado/regador_wifi_esp32)
 
 
+
 ### 📫 Contato
 
 Se você quiser colaborar em algum projeto, trocar ideias ou apenas bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato comigo:
