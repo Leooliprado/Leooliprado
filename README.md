@@ -48,7 +48,7 @@
 #### **AWS** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30"/>  
  - Implantação e gerenciamento de instâncias EC2  
 
-#### **Servidores Físicos (Caseiros ou Empresariais)** <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/server-2.svg" width="25"/>  
+#### **Servidores Físicos (Caseiros)** 🖥️
  - Montagem e configuração de servidores físicos, seja em casa ou na empresa  
  - Configuração de portas no roteador para acesso externo  
  - Instalação e configuração de sistemas operacionais para servidores  
