@@ -31,11 +31,13 @@
 
 #### Sistemas Operacionais
 - **Linux** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/>
-  - **Desktop**: 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/640px-Ubuntu_logoib.svg.png" width="25"/> Ubuntu |
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="25"/> Debian |
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="25"/> Linux Mint |
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/640px-Arch_Linux_%22Crystal%22_icon.svg.png" width="25"/> Arch Linux
+
+- **Desktop**:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="25"/> Ubuntu |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="25"/> Debian |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" width="25"/> Linux Mint |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="25"/> Arch Linux
+
 
   - **Servidor**: 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/640px-Ubuntu_logoib.svg.png" width="25"/> Ubuntu Server |
@@ -43,10 +45,10 @@
 
 ### ☁️ **Cloud & Servidores**  
 
-#### **AWS** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/640px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="30"/>  
+#### **AWS** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30"/>  
  - Implantação e gerenciamento de instâncias EC2  
 
-#### **Servidores Físicos (Caseiros ou Empresariais)** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Server-multiple.svg/640px-Server-multiple.svg.png" width="25"/>  
+#### **Servidores Físicos (Caseiros ou Empresariais)** <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/server-2.svg" width="25"/>  
  - Montagem e configuração de servidores físicos, seja em casa ou na empresa  
  - Configuração de portas no roteador para acesso externo  
  - Instalação e configuração de sistemas operacionais para servidores  
@@ -71,7 +73,6 @@
 
 #### Repositórios Populares
 [![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leooliprado&repo=regador_wifi_esp32&theme=dark)](https://github.com/Leooliprado/regador_wifi_esp32)
-
 
 
 ### 📫 Contato
