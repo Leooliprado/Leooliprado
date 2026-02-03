@@ -73,6 +73,8 @@
 
 #### Repositórios Populares
 [![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leooliprado&repo=regador_wifi_esp32&theme=dark)](https://github.com/Leooliprado/regador_wifi_esp32)
+[![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leooliprado&repo=braco-robotico-industrial&theme=dark)](https://github.com/Leooliprado/braco-robotico-industrial)
+
 
 
 ### 📫 Contato
