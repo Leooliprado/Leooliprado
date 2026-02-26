@@ -58,6 +58,12 @@
  - Implantação de servidores acessíveis publicamente sem depender de serviços em nuvem  
 
 
+
+
+### **🌐 Saiba mais no meu site** 
+- **Clique aqui:** [sistema-l.ddns.net](http://sistema-l.ddns.net:1000)
+
+
 ### 📊 Estatísticas do GitHub
 
 #### Linguagens Mais Usadas
