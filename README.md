@@ -60,7 +60,7 @@
 
 
 
-### **🌐 Saiba mais no meu site** 
+### **🌐 Saiba mais sobre mim no meu site** 
 - **Clique aqui:** [sistema-l.ddns.net](http://sistema-l.ddns.net:1000)
 
 
