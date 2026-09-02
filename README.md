@@ -67,10 +67,10 @@
 ### 📊 Estatísticas do GitHub
 
 #### Linguagens Mais Usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leooliprado&layout=compact&hide=java,html&langs_count=10&theme=dark)](https://github.com/Leooliprado)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Leooliprado&layout=compact&hide=java,html&langs_count=10&theme=dark&locale=pt-br)](https://github.com/Leooliprado)
 
 #### Commits Diários
-[![Leooliprado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leooliprado&show_icons=true&theme=dark)](https://github.com/Leooliprado)
+[![Leooliprado's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leooliprado&show_icons=true&theme=dark&locale=pt-br)](https://github.com/Leooliprado)
 
 #### Sequência de Contribuições
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leooliprado&theme=dark&locale=pt_BR)](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -79,8 +79,8 @@
 [![Leooliprado's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leooliprado&theme=github-dark)](https://github.com/Leooliprado)
 
 #### Repositórios Populares
-[![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leooliprado&repo=regador_wifi_esp32&theme=dark)](https://github.com/Leooliprado/regador_wifi_esp32)
-[![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leooliprado&repo=braco-robotico-industrial&theme=dark)](https://github.com/Leooliprado/braco-robotico-industrial)
+[![GitHub Repo Card](https://github-stats-extended.vercel.app/api/pin/?username=Leooliprado&repo=regador_wifi_esp32&theme=dark)](https://github.com/Leooliprado/regador_wifi_esp32)
+[![GitHub Repo Card](https://github-stats-extended.vercel.app/api/pin/?username=Leooliprado&repo=braco-robotico-industrial&theme=dark)](https://github.com/Leooliprado/braco-robotico-industrial)
 
 
 
