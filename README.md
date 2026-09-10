@@ -61,7 +61,7 @@
 
 
 ### **🌐 Saiba mais sobre mim no meu site**
-* **Clique aqui:** https://sistema-l.site/
+* **Clique aqui:** https://sistema-l.site
 
 
 
