@@ -61,7 +61,7 @@
 
 
 ### **🌐 Saiba mais sobre mim no meu site** 
-- **Clique aqui:** [sistema-l.ddns.net](http://sistema-l.ddns.net:1000)
+- **Clique aqui:** [https://sistema-l.site/](https://sistema-l.site)](https://sistema-l.site/)
 
 
 ### 📊 Estatísticas do GitHub
